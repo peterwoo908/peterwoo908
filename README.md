@@ -9,6 +9,7 @@ My Technical Skills Include:
 - Excel (Ad-hoc Analysis, Macros, Pivots)
 
 Recent Projects:
+- [NFL Game Attendance Predictive Analysis](https://github.com/peterwoo908/NFL-Game-Attendance-Predictive-Analysis)
 - [Historical Fantasy Football Lineup Creator](https://github.com/peterwoo908/Historical-Fantasy-Football-Lineup-Creator)
 
 Feel free to reach out to me on LinkedIn or to my email: peterwoo908@gmail.com
