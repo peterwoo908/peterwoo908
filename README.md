@@ -11,6 +11,7 @@ My Technical Skills Include:
 Recent Projects:
 - [NFL Game Attendance Predictive Analysis](https://github.com/peterwoo908/NFL-Game-Attendance-Predictive-Analysis)
 - [Historical Fantasy Football Lineup Creator](https://github.com/peterwoo908/Historical-Fantasy-Football-Lineup-Creator)
+- [NBA Game Outcome Predictive Analysis](https://github.com/peterwoo908/NBA-Game-Outcome-Prediction/tree/main?tab=readme-ov-file)
 
 Feel free to reach out to me on LinkedIn or to my email: peterwoo908@gmail.com
 
