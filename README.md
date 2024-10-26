@@ -1,4 +1,4 @@
-## Hi there 👋, My Name is Peter Woo
+## Peter Woo Project Portfolio
 
 I am currently a Master of Business Analytics Student at Cal Poly SLO, graduating in June 2025. I enjoy analyzing data and utilizing statistical methods to extract insights. I am a huge sports fan and my favorite teams are the Jets, Knicks, and Mets. I aspire to become a Business Analyst for a professional sports team.
 
