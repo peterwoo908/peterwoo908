@@ -7,12 +7,14 @@ My Technical Skills Include:
 - R (dplyr, ggplot2, rshiny web applications)
 - SQL (Window Functions, CTEs, Subqueries)
 - Excel (Ad-hoc Analysis, Macros, Pivots)
+- Power BI (Dashboarding, DAX, Power Query)
 
-Recent Projects:
-- [NFL Game Attendance Predictive Analysis](https://github.com/peterwoo908/NFL-Game-Attendance-Predictive-Analysis)
-- [Grocery Store Sales/Customer Analysis](https://github.com/peterwoo908/Grocery-Store-Sales-Customer-Analysis/tree/main)
-- [Historical Fantasy Football Lineup Creator](https://github.com/peterwoo908/Historical-Fantasy-Football-Lineup-Creator)
-- [NBA Game Outcome Predictive Analysis](https://github.com/peterwoo908/NBA-Game-Outcome-Prediction/tree/main?tab=readme-ov-file)
+# Projects:
+1. [NFL Game Attendance Predictive Analysis](https://github.com/peterwoo908/NFL-Game-Attendance-Predictive-Analysis)
+2. [Grocery Store Sales/Customer Analysis](https://github.com/peterwoo908/Grocery-Store-Sales-Customer-Analysis/tree/main)
+3. [S&P 500 Time Series Analysis](https://github.com/peterwoo908/SP500-Time-Series-Analysis)
+4. [Historical Fantasy Football Lineup Creator](https://github.com/peterwoo908/Historical-Fantasy-Football-Lineup-Creator)
+5. [NBA Game Outcome Predictive Analysis](https://github.com/peterwoo908/NBA-Game-Outcome-Prediction/tree/main?tab=readme-ov-file)
 
 Feel free to reach out to me on LinkedIn or to my email: peterwoo908@gmail.com
 
